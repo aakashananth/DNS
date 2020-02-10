@@ -1,0 +1,3 @@
+This repository contains a Ruby program and a text file!
+The ruby program(lookup.rb) is a DNS Resolver program.
+The text file contains the domains names and their IP addreses.
